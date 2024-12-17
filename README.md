@@ -1,3 +1,3 @@
 # SAYNA-CULTUREG-PROJET1
 Introduction to General Culture
-IN PROGRESS
+DONE
